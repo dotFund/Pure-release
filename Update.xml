@@ -1,0 +1,7 @@
+<update minimum="1.1.1001.10001" latest="1.1.1001.10001">
+	<release version="1.1.1001.10001" file="https://github.com/dotFund/Pure-release/release/PureWallet-Gui-v1.1.1001.10001.zip">
+		<changes>
+			<![CDATA[ 1. Init Commit ]]>
+		</changes>
+	</release>
+</update>`
